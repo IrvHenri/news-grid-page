@@ -1,2 +1,2 @@
 # newsgrid
-Udemy Course. Portfolio Website. HTML AND CSS ONLY
+Udemy Course: Portfolio Website. HTML & CSS Only
